@@ -23,6 +23,6 @@ We welcome community contributions! See our contribution guidelines for more inf
 
 ## i am going to insert the image 
 
-This is the way we insert the image in git env [click on this for get the image]("C:\Users\HP\OneDrive\Desktop\png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png")
+This is the way we insert the image in git env [click on this for get the image]()
 
 
