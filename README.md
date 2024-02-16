@@ -31,7 +31,7 @@ This is the way we insert the image in git env [click on this for get the image]
 
 
 
-<img width="1042" alt="petclinic-screenshot" src="">
+<img width="1042" alt="petclinic-screenshot" src="png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png">
 
 
 
