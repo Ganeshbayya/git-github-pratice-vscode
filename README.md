@@ -17,3 +17,8 @@ For detailed instructions, please refer to the official documentation: [link to 
 
 We welcome community contributions! See our contribution guidelines for more information: [link to guidelines](https://yourproject.com/contrib).
 
+## bouth image insert
+
+![Screenshot of the project interface](images/screenshot.png)
+
+
